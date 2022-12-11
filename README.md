@@ -4,7 +4,7 @@
  
  <p align="center">
   <a href="https://github.com/thenithinbalaji/Doge-Memer-Website">
-    <img src="https://skillicons.dev/icons?i=html,tailwind,svg,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,tailwind,svg" />
   </a>
 </p>
 
